@@ -1,0 +1,14 @@
+{
+  "name": "cryptography_basics",
+  "version": "1.0.0",
+  "description": "Symmetric cryptography",
+  "main": "symmetric_oneKey_fernet.js",
+  "repository": "git@github.com:DanielFranco-NEUenergy/cryptography_basics.git",
+  "author": "DanielFranco <francodaniil@yandex.ru>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "fernet": "^0.4.0"
+  }
+}
